@@ -1,0 +1,1 @@
+.mobileview{display:none}.desktopview{display:block}@media (max-width:767px){.mobileview{display:block}.desktopview{display:none}}
