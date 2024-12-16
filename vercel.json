@@ -8,4 +8,12 @@
     ]
   }
   
-  
+  {
+    "redirects": [
+      {
+        "source": "/2024/12/15/hawk-tuah-girl-the-internet-enchantress-who-just-scammed-you",
+        "destination": "/hawk-tuah-girl-the-internet-enchantress-who-just-scammed-you",
+        "permanent": true
+      }
+    ]
+  } 
